@@ -115,5 +115,6 @@
 ---
 
 ### 🐍 Contribution Graph
-
-<!-- GitHub contribution graph as a snake -->![snake gif](https://github.com/avogadronuggies/avogadronuggies/blob/output/github-snake-dark.svg)
+<div align="center">
+![snake gif](https://github.com/avogadronuggies/avogadronuggies/blob/output/github-snake.svg)
+</div>
