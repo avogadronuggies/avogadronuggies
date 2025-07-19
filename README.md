@@ -116,5 +116,5 @@
 
 ### 🐍 Contribution Graph
 <div align="center">
-![snake gif](https://github.com/avogadronuggies/avogadronuggies/blob/output/github-snake.svg)
+  <img src="https://github.com/avogadronuggies/avogadronuggies/blob/output/github-snake.svg" alt="snake gif"/>
 </div>
