@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Vijet%20Naik&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Software%20Engineer%20|%20Full-Stack%20Developer%20|%20AI%20Builder&descAlignY=55&descAlign=50"/>
 </p>
 
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=avogadronuggies)
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vijet-naik-55245b287/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
